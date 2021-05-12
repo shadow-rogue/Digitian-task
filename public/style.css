@@ -1,0 +1,53 @@
+
+body {
+    background-image: url("table-note.jpg") ;
+}
+#root {
+    margin: 7% 20%;
+    background-color: white;
+}
+
+.form-label {
+    padding: 10px 15px;
+    margin: 0 30px;
+}
+
+.form-control {
+    border-radius: 0%;
+    margin: 0px 55px;
+    width: 200px;
+}
+
+.header {
+    background-color: #3b6075;
+    padding-bottom: 20px;
+}
+img {
+    width: 191px;
+    height: 143px;
+    margin: 40px;
+}
+
+.main-heading {
+    display: inline-block;
+    margin: 40px 40px 40px 0px;
+    font-size: 37px;
+    color: white;
+}
+
+.heading-content {
+    margin: 0px 40px 20px;
+    color: white;
+}
+
+.form-check {
+    margin: 0px 55px;
+}
+
+.submit-button {
+    margin: 50px 55px;
+    width: 140px;
+    height: 50px;
+    background-color: #3b6075;
+    color: white;
+}
